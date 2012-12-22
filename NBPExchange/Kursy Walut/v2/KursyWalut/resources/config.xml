@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configurations>
+<fetchURL name="Tabela A" value="http://www.nbp.pl/kursy/xml/LastA.xml"/>
+<fetchURL  name="Tabela B" value="http://www.nbp.pl/kursy/xml/LastB.xml"/>
+<config  name="offline" value="true"/>
+</configurations>
